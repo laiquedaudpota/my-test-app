@@ -1,6 +1,3 @@
-# my-test-app
-
-```sh
 package com.java.app;
 
 import com.fasterxml.jackson.databind.DeserializationFeature;
@@ -46,4 +43,3 @@ public class TestRun {
         }
     }
 }
-```
